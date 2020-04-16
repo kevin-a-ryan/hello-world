@@ -2,6 +2,8 @@
 to practice github
 *Github terminology in ALL CAPS
 
+Github is useful for collaborative text editing.
+
 REPOSITORY is a project organizer for folders and data.
 BRANCHING is for version control of the files in the project repository
     MASTER BRANCH = default definitive branch (it should always be deployable)
@@ -23,19 +25,33 @@ Download Github Desktop application
 	You can continue to use Github features in desktop such as creating new REPOSITORIES/BRANCHES
 	Click FETCH ORIGIN in Github Desktop in order to sync the local BRANCH to a Github.com REMOTE BRANCH/REPOSITORY
 	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
-	PULL ORIGIN means to sync COMMITS (changes) made in the cloud with the local files
+	PULL ORIGIN means to sync the cloud with the local files
 	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
+	There is a hidden .git folder in the local folder that keeps track of which branch is editing local folder contents
+		If you change Github Desktop branches, the associated local hidden files change
 	Github Desktop will compare changes with the ORIGIN file in the cloud. COMMIT the changes in Github Desktop.
 	You can also MERGE the FEATURE BRANCH into the MASTER BRANCH in Github Desktop by:
 		Change to the BRANCH you want to MERGE into, then click 'Choose a branch to merge into branch'
 	Use PUSH ORIGIN feature to MERGE the local changes to the ORIGIN REPOSITORY on Github.com
 	If you make a new local BRANCH while in Github Desktop, you can PUBLISH the new BRANCH
 		PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY (ORIGIN)
-	There is a hidden .git folder in the local folder that keeps track of which branch is editing local folder contents
-		If you change Github Desktop branches, the associated local hidden files change
+ISSUES
+	Can create an issue to be resolved.
+	Can tag Github users in ISSUES using @username
+
+General Work Flow:
+	Add script to MASTER
+	PULL MASTER on Desktop to sync
+	Create new BRANCH for editing script. Create a BRANCH every time you edit.
+	COMMIT changes to script
+	Initiate PULL REQUEST to MERGE updated script back to MASTER
+		Review changes, comment, collaborate via PULL REQUEST on Github.com
+	Confirm MERGE to MASTER
+	
+
 		
 FORKS
-	FORK is a copy of a REPOSITORY
+	FORK is a copy of a REPOSITORY mostly useful for large open-source projects
 	To make suggestions on someone's project
 		FORK the REPOSITORY, edit the code, SUBMIT PULL REQUEST to project OWNER
 		The OWNER can then review the changes
