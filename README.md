@@ -1,2 +1,4 @@
 # hello-world
-to practice
+to practice github
+
+Repository is a project organizer for folders and data
