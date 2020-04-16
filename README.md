@@ -24,15 +24,10 @@ Download Github Desktop application
 	Click FETCH ORIGIN in Github Desktop in order to sync the local BRANCH to a Github.com REMOTE BRANCH/REPOSITORY
 	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
 	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
-	From Github Desktop will compare changes with the ORIGIN
-
-	COMMIT TO MASTER the changes
-
-	PUSH ORIGIN
-FORK
-PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY
-
-	PUSH ORIGIN
+	Github Desktop will compare changes with the ORIGIN file in the cloud
+	Use PUSH ORIGIN feature to MERGE the local changes to the ORIGIN REPOSITORY on Github.com
+	If you make a new local BRANCH while in Github Desktop, you can PUBLISH the new BRANCH
+		PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY (ORIGIN)
 FORK
 
 
