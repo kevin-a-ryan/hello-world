@@ -25,10 +25,15 @@ Download Github Desktop application
 	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
 	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
 	From Github Desktop will compare changes with the ORIGIN
+
 	COMMIT TO MASTER the changes
-test
+
 	PUSH ORIGIN
 FORK
 PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY
+
+	PUSH ORIGIN
+FORK
+
 
 	
