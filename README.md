@@ -23,12 +23,19 @@ Download Github Desktop application
 	You can continue to use Github features in desktop such as creating new REPOSITORIES/BRANCHES
 	Click FETCH ORIGIN in Github Desktop in order to sync the local BRANCH to a Github.com REMOTE BRANCH/REPOSITORY
 	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
+	PULL ORIGIN means to sync COMMITS (changes) made in the cloud with the local files
 	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
 	Github Desktop will compare changes with the ORIGIN file in the cloud
 	Use PUSH ORIGIN feature to MERGE the local changes to the ORIGIN REPOSITORY on Github.com
 	If you make a new local BRANCH while in Github Desktop, you can PUBLISH the new BRANCH
 		PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY (ORIGIN)
-FORK
+
+FORKS
+	FORK is a copy of a REPOSITORY
+	To make suggestions on someone's project
+		FORK the REPOSITORY, edit the code, SUBMIT PULL REQUEST to project OWNER
+		The OWNER can then review the changes
+	Can also FORK a REPOSITORY to build something new off of it
 
 
 	
