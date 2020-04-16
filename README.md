@@ -31,7 +31,9 @@ Download Github Desktop application
 	Use PUSH ORIGIN feature to MERGE the local changes to the ORIGIN REPOSITORY on Github.com
 	If you make a new local BRANCH while in Github Desktop, you can PUBLISH the new BRANCH
 		PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY (ORIGIN)
-
+	There is a hidden .git folder in the local folder that keeps track of which branch is editing local folder contents
+		If you change Github Desktop branches, the associated local files change
+		
 FORKS
 	FORK is a copy of a REPOSITORY
 	To make suggestions on someone's project
