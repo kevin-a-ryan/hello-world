@@ -20,7 +20,12 @@ A MERGE occurs when a team member accepts the changes in the PULL REQUEST and ch
 	Team members can still comment on the PULL REQUEST CONVERSATION after it has been MERGED to MASTER BRANCH
 Download Github Desktop application
 	CLONE your online Github.com repository to the desktop application by establishing a local folder
-	You can can continue to use Github features in desktop
-	Click FETCH ORIGIN in Github Desktop in order to sync the local branch to the Github.com branch
+	You can continue to use Github features in desktop such as creating new REPOSITORIES/BRANCHES
+	Click FETCH ORIGIN in Github Desktop in order to sync the local BRANCH to a Github.com REMOTE BRANCH/REPOSITORY
+	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
+	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
+	From Github Desktop will compare changes with the ORIGIN
+	PUSH ORIGIN
+FORK
 
 	
