@@ -25,7 +25,9 @@ Download Github Desktop application
 	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
 	PULL ORIGIN means to sync COMMITS (changes) made in the cloud with the local files
 	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
-	Github Desktop will compare changes with the ORIGIN file in the cloud
+	Github Desktop will compare changes with the ORIGIN file in the cloud. COMMIT the changes in Github Desktop.
+	You can also MERGE the FEATURE BRANCH into the MASTER BRANCH in Github Desktop by:
+		Change to the BRANCH you want to MERGE into, then click 'Choose a branch to merge into branch'
 	Use PUSH ORIGIN feature to MERGE the local changes to the ORIGIN REPOSITORY on Github.com
 	If you make a new local BRANCH while in Github Desktop, you can PUBLISH the new BRANCH
 		PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY (ORIGIN)
@@ -36,6 +38,3 @@ FORKS
 		FORK the REPOSITORY, edit the code, SUBMIT PULL REQUEST to project OWNER
 		The OWNER can then review the changes
 	Can also FORK a REPOSITORY to build something new off of it
-
-
-	TEST
