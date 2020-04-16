@@ -18,3 +18,17 @@ A MERGE occurs when a team member accepts the changes in the PULL REQUEST and ch
 	A MERGE must be CONFIRMED
 	The FEATURE BRANCH can be deleted after the merge
 	Team members can still comment on the PULL REQUEST CONVERSATION after it has been MERGED to MASTER BRANCH
+Download Github Desktop application
+	CLONE your online Github.com repository to the desktop application by establishing a local folder
+	You can continue to use Github features in desktop such as creating new REPOSITORIES/BRANCHES
+	Click FETCH ORIGIN in Github Desktop in order to sync the local BRANCH to a Github.com REMOTE BRANCH/REPOSITORY
+	Github calls the github.com DEFAULT REMOTE REPOSITORY = ORIGIN
+	Make and save changes to the local files using local apps (notepad/RStudio, etc.)
+	From Github Desktop will compare changes with the ORIGIN
+	COMMIT TO MASTER the changes
+test
+	PUSH ORIGIN
+FORK
+PUBLISH BRANCH = PUSH a new local BRANCH to a REMOTE Github.com REPOSITORY
+
+	
